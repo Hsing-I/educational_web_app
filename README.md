@@ -1,21 +1,25 @@
-Gmail Account and Firebase
-gmail: educational.web.app@gmail.com
-password: educational_WEBAPP
+Educational web application that is built for course management. Designed a graphical representation for displaying the total enrollments per course on the
+educator-side and implemented a webpage for educators to upload course materials to the cloud storage. Viewed all the available courses created by different educators and enroll in it on the learner-side
 
-Cloudinary Account
-email:educational.web.app@gmail.com
-password: educational_WEBAPP@2021
+## Final Product
 
-PostgreSQL Database:
-host: 'localhost',
-user: 'development',
-password: 'development',
-database: 'educational_web_app',
-port: 5432,
+!["screenshot of landing page"]()
 
-postgres://omimumzcfswdyb:
-0ff30f4853e742c624ba2c103e9c6c52cffc59d1c9a6ca196e02c4c3c400ab35@
-ec2-3-209-176-42.compute-1.amazonaws.com:5432/
-devpkndeoo5oab
+!["screenshot of educators page"]()
 
-psql -h ec2-3-209-176-42.compute-1.amazonaws.com -p 5432 -U omimumzcfswdyb -d devpkndeoo5oab
+!["screenshot of learners page"]()
+
+## Dependencies
+
+- Node.js
+- Express
+- React
+- Postgre SQL
+- Cloudinary
+- Firebase
+
+## Getting Started
+
+- Install all dependencies (using the `npm install` command).
+- Start the front-end server using the npm start command. The app will be served at http://localhost:9000/
+- Start the back-end server using the npm start command.
