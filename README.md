@@ -3,11 +3,11 @@ educator-side and implemented a webpage for educators to upload course materials
 
 ## Final Product
 
-!["screenshot of landing page"]()
+!["screenshot of landing page"](https://github.com/Hsing-I/educational_web_app/blob/master/docs/landing_page.png)
 
-!["screenshot of educators page"]()
-
-!["screenshot of learners page"]()
+!["screenshot of educators page"](https://github.com/Hsing-I/educational_web_app/blob/master/docs/educators_graph.png)(https://github.com/Hsing-I/educational_web_app/blob/master/docs/educators_courses.png)(https://github.com/Hsing-I/educational_web_app/blob/master/docs/educators_create_course.png)
+                                  
+!["screenshot of learners page"](https://github.com/Hsing-I/educational_web_app/blob/master/docs/learners_courses.png)
 
 ## Dependencies
 
